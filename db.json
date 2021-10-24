@@ -69,5 +69,37 @@
       "status": "in_progress",
       "id": 9
     }
+  ],
+  "updates": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "description": "Aguardando confirmação dos dados do almoxarifado"
+    },
+    {
+      "id": 1,
+      "order_id": 1,
+      "description": "Aguardando confirmação dos dados do almoxarifado"
+    },
+    {
+      "id": 1,
+      "order_id": 1,
+      "description": "Aguardando confirmação dos dados do almoxarifado"
+    },
+    {
+      "id": 1,
+      "order_id": 1,
+      "description": "Aguardando confirmação dos dados do almoxarifado"
+    },
+    {
+      "id": 1,
+      "order_id": 2,
+      "description": "Aguardando confirmação dos dados do almoxarifado"
+    },
+    {
+      "id": 1,
+      "order_id": 2,
+      "description": "Aguardando confirmação dos dados do almoxarifado"
+    }
   ]
 }
