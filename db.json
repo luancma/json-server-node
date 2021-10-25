@@ -74,32 +74,37 @@
     {
       "id": 1,
       "order_id": 1,
-      "description": "Aguardando confirmação dos dados do almoxarifado"
+      "message": "Aguardando confirmação dos dados do almoxarifado"
     },
     {
       "id": 1,
       "order_id": 1,
-      "description": "Aguardando confirmação dos dados do almoxarifado"
+      "message": "Aguardando confirmação dos dados do almoxarifado"
     },
     {
       "id": 1,
       "order_id": 1,
-      "description": "Aguardando confirmação dos dados do almoxarifado"
+      "message": "Aguardando confirmação dos dados do almoxarifado"
     },
     {
       "id": 1,
       "order_id": 1,
-      "description": "Aguardando confirmação dos dados do almoxarifado"
+      "message": "Aguardando confirmação dos dados do almoxarifado"
     },
     {
       "id": 1,
       "order_id": 2,
-      "description": "Aguardando confirmação dos dados do almoxarifado"
+      "message": "Aguardando confirmação dos dados do almoxarifado"
     },
     {
       "id": 1,
       "order_id": 2,
-      "description": "Aguardando confirmação dos dados do almoxarifado"
+      "message": "Aguardando confirmação dos dados do almoxarifado"
+    },
+    {
+      "message":  "Atendimento iniciado",
+      "order_id": "5",
+      "id": 2
     }
   ]
 }
